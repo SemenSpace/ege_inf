@@ -1,0 +1,1 @@
+print(open('3.txt').readline().count('STOCK') - open('3.txt').readline().count('OCK'))
